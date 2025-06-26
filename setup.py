@@ -12,9 +12,6 @@ def get_Requirements(file_path:str)->List[str]:
     return Requirements    
 
 
-
-
-
 setup(
 name ='Mlproject',
 version='0.0.1',
